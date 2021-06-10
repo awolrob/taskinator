@@ -145,7 +145,7 @@ var taskStatusChangeHandler = function(event) {
     tasksCompletedEl.appendChild(taskSelected);
   }
 };
-
+ 
 var editTask = function(taskId) {
   console.log(taskId);
 
